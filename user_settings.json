@@ -1,0 +1,17 @@
+{
+  "DARK_MODE": false,
+  "PACK_MODE": "1PACK",
+  "OCR_MODE": "LOCAL",
+  "OCR_MIN_SCORE": 0.3,
+  "LAST_OPEN_FOLDER": "",
+  "LAST_SAVE_FOLDER": "G:/남기동- 정답 TEST/HY클린메탈 황산니켈 수출/BBB/B",
+  "LAST_S1_EXCEL_FILE": "G:/남기동- 정답 TEST/1Pallet 1Pack 작업사진 리스트.xlsx",
+  "LAST_S1_FOLDER": "",
+  "LAST_S2_FOLDER": "",
+  "LAST_IMAGE_ROOT": "",
+  "RESULT_EXCEL_NAME": "S2_내품사진_자동생성.xlsx",
+  "REPORT_FILE_NAME": "ocr_summary_report.txt",
+  "GOOGLE_CLOUD_JSON": "",
+  "MAX_IMAGE_WIDTH": 1600,
+  "MAX_FILENAME_LENGTH": 180
+}
